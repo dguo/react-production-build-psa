@@ -28,7 +28,6 @@ behind these websites so that they can make the change.
 * [terminal.sexy](https://terminal.sexy/)
 * [typography.com](https://www.typography.com/)
 * [variety.com](https://variety.com/)
-* [wired.com](https://www.wired.com/)
 
 ## Contributing
 Create pull requests to add or remove entries from the list. I try to contact
