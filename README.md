@@ -25,6 +25,7 @@ behind these websites so that they can make the change.
 * [blackship.com](https://www.blackship.com/)
 * [changehub.io](http://changehub.io/)
 * [clearbit.com](https://clearbit.com/)
+* [raise.com](https://raise.com/)
 * [rottentomatoes.com](https://www.rottentomatoes.com/)
 * [terminal.sexy](https://terminal.sexy/)
 * [typography.com](https://www.typography.com/)
