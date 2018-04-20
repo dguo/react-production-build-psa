@@ -27,6 +27,7 @@ behind these websites so that they can make the change.
 * [clearbit.com](https://clearbit.com/)
 * [raise.com](https://raise.com/)
 * [rottentomatoes.com](https://www.rottentomatoes.com/)
+* [technologyreview.com](https://www.technologyreview.com/)
 * [terminal.sexy](https://terminal.sexy/)
 * [typography.com](https://www.typography.com/)
 * [variety.com](https://variety.com/)
