@@ -28,6 +28,7 @@ behind these websites so that they can make the change.
 * [changehub.io](http://changehub.io/)
 * [clearbit.com](https://clearbit.com/)
 * [indiewire.com](https://www.indiewire.com/)
+* [indochino.com](https://www.indochino.com/)
 * [rottentomatoes.com](https://www.rottentomatoes.com/)
 * [technologyreview.com](https://www.technologyreview.com/)
 * [terminal.sexy](https://terminal.sexy/)
