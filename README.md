@@ -32,6 +32,7 @@ behind these websites so that they can make the change.
 * [rottentomatoes.com](https://www.rottentomatoes.com/)
 * [technologyreview.com](https://www.technologyreview.com/)
 * [terminal.sexy](https://terminal.sexy/)
+* [thehelm.com](https://thehelm.com/)
 * [ticketmaster.com](https://www.ticketmaster.com/)
 * [typography.com](https://www.typography.com/)
 * [variety.com](https://variety.com/)
