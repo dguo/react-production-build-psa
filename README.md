@@ -27,6 +27,7 @@ behind these websites so that they can make the change.
 * [blackship.com](https://www.blackship.com/)
 * [changehub.io](http://changehub.io/)
 * [clearbit.com](https://clearbit.com/)
+* [hbr.org](https://hbr.org/)
 * [indiewire.com](https://www.indiewire.com/)
 * [indochino.com](https://www.indochino.com/)
 * [rottentomatoes.com](https://www.rottentomatoes.com/)
