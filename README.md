@@ -30,6 +30,7 @@ behind these websites so that they can make the change.
 * [hbr.org](https://hbr.org/)
 * [indiewire.com](https://www.indiewire.com/)
 * [indochino.com](https://www.indochino.com/)
+* [newyorker.com](https://www.newyorker.com/)
 * [rottentomatoes.com](https://www.rottentomatoes.com/)
 * [technologyreview.com](https://www.technologyreview.com/)
 * [terminal.sexy](https://terminal.sexy/)
