@@ -1,4 +1,5 @@
 # React Production Build PSA
+
 The [React Developer Tools](https://github.com/facebook/react-devtools)
 extension displays an icon indicating if the current website is running a
 development, production, or out of date build of React:
@@ -28,6 +29,7 @@ behind these websites so that they can make the change.
 * [changehub.io](http://changehub.io/)
 * [clearbit.com](https://clearbit.com/)
 * [hbr.org](https://hbr.org/)
+* [hyperping.io](https://hyperping.io/)
 * [indiewire.com](https://www.indiewire.com/)
 * [indochino.com](https://www.indochino.com/)
 * [newyorker.com](https://www.newyorker.com/)
@@ -40,6 +42,7 @@ behind these websites so that they can make the change.
 * [variety.com](https://variety.com/)
 
 ## Contributing
+
 Create pull requests to add or remove entries from the list. I try to contact
 the websites to let them know about the issue. If you're adding one, let me
 know if you have already tried to contact them or if you would like me to do
@@ -52,4 +55,5 @@ code base. Developers also probably already know that React releases new
 versions regularly.
 
 ## License
+
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
