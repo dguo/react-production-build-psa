@@ -23,23 +23,15 @@ of the production build and 2) hopefully get the attention of the developers
 behind these websites so that they can make the change.
 
 * [allmychanges.com](https://allmychanges.com/)
-* [bestbuy.com](https://www.bestbuy.com/)
-* [bevisible.com](https://www.bevisible.com/)
-* [blackship.com](https://www.blackship.com/)
-* [changehub.io](http://changehub.io/)
 * [clearbit.com](https://clearbit.com/)
 * [hbr.org](https://hbr.org/)
-* [hyperping.io](https://hyperping.io/)
 * [indiewire.com](https://www.indiewire.com/)
 * [indochino.com](https://www.indochino.com/)
-* [newyorker.com](https://www.newyorker.com/)
-* [rottentomatoes.com](https://www.rottentomatoes.com/)
 * [technologyreview.com](https://www.technologyreview.com/)
 * [terminal.sexy](https://terminal.sexy/)
-* [thehelm.com](https://thehelm.com/)
-* [ticketmaster.com](https://www.ticketmaster.com/)
 * [typography.com](https://www.typography.com/)
 * [variety.com](https://variety.com/)
+* [visible.com](https://www.visible.com/)
 
 ## Contributing
 
