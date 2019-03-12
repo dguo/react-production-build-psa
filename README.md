@@ -24,6 +24,7 @@ behind these websites so that they can make the change.
 
 * [allmychanges.com](https://allmychanges.com/)
 * [clearbit.com](https://clearbit.com/)
+* [fortawesome.com](https://fortawesome.com/)
 * [hbr.org](https://hbr.org/)
 * [indiewire.com](https://www.indiewire.com/)
 * [indochino.com](https://www.indochino.com/)
