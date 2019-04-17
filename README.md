@@ -22,6 +22,7 @@ function without obvious issues. Rather, the goals are to 1) increase awareness
 of the production build and 2) hopefully get the attention of the developers
 behind these websites so that they can make the change.
 
+* [account.ubisoft.com](https://account.ubisoft.com/)
 * [allmychanges.com](https://allmychanges.com/)
 * [clearbit.com](https://clearbit.com/)
 * [fortawesome.com](https://fortawesome.com/)
