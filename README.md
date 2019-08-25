@@ -26,15 +26,11 @@ behind these websites so that they can make the change.
 * [allmychanges.com](https://allmychanges.com/)
 * [clearbit.com](https://clearbit.com/)
 * [fortawesome.com](https://fortawesome.com/)
-* [hbr.org](https://hbr.org/)
 * [indiewire.com](https://www.indiewire.com/)
 * [indochino.com](https://www.indochino.com/)
 * [streeteasy.com](https://streeteasy.com/)
-* [technologyreview.com](https://www.technologyreview.com/)
 * [terminal.sexy](https://terminal.sexy/)
-* [typography.com](https://www.typography.com/)
 * [variety.com](https://variety.com/)
-* [visible.com](https://www.visible.com/)
 
 ## Contributing
 
