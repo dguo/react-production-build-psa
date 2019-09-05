@@ -24,6 +24,7 @@ behind these websites so that they can make the change.
 
 * [account.ubisoft.com](https://account.ubisoft.com/)
 * [allmychanges.com](https://allmychanges.com/)
+* [appdynamics.com](https://www.appdynamics.com/)
 * [clearbit.com](https://clearbit.com/)
 * [fortawesome.com](https://fortawesome.com/)
 * [indiewire.com](https://www.indiewire.com/)
