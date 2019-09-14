@@ -26,6 +26,7 @@ behind these websites so that they can make the change.
 * [allmychanges.com](https://allmychanges.com/)
 * [appdynamics.com](https://www.appdynamics.com/)
 * [clearbit.com](https://clearbit.com/)
+* [deadline.com](https://deadline.com/)
 * [fortawesome.com](https://fortawesome.com/)
 * [indiewire.com](https://www.indiewire.com/)
 * [indochino.com](https://www.indochino.com/)
