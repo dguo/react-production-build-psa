@@ -23,16 +23,13 @@ of the production build and 2) hopefully get the attention of the developers
 behind these websites so that they can make the change.
 
 * [account.ubisoft.com](https://account.ubisoft.com/)
-* [allmychanges.com](https://allmychanges.com/)
-* [appdynamics.com](https://www.appdynamics.com/)
-* [clearbit.com](https://clearbit.com/)
 * [deadline.com](https://deadline.com/)
 * [fortawesome.com](https://fortawesome.com/)
 * [hatsuhana.com](https://www.hatsuhana.com/)
 * [indiewire.com](https://www.indiewire.com/)
 * [indochino.com](https://www.indochino.com/)
+* [rubirosanyc.com](https://www.rubirosanyc.com/)
 * [socialclub.rockstargames.com](https://socialclub.rockstargames.com/)
-* [streeteasy.com](https://streeteasy.com/)
 * [terminal.sexy](https://terminal.sexy/)
 * [variety.com](https://variety.com/)
 
