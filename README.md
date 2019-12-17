@@ -23,6 +23,7 @@ of the production build and 2) hopefully get the attention of the developers
 behind these websites so that they can make the change.
 
 * [account.ubisoft.com](https://account.ubisoft.com/)
+* [crownshy.nyc](https://www.crownshy.nyc/)
 * [deadline.com](https://deadline.com/)
 * [fortawesome.com](https://fortawesome.com/)
 * [hatsuhana.com](https://www.hatsuhana.com/)
