@@ -29,6 +29,7 @@ behind these websites so that they can make the change.
 * [hatsuhana.com](https://www.hatsuhana.com/)
 * [indiewire.com](https://www.indiewire.com/)
 * [indochino.com](https://www.indochino.com/)
+* [marvel.com/creditcard](https://www.marvel.com/creditcard)
 * [rubirosanyc.com](https://www.rubirosanyc.com/)
 * [socialclub.rockstargames.com](https://socialclub.rockstargames.com/)
 * [terminal.sexy](https://terminal.sexy/)
