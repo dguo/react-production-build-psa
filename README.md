@@ -33,6 +33,7 @@ behind these websites so that they can make the change.
 * [rubirosanyc.com](https://www.rubirosanyc.com/)
 * [socialclub.rockstargames.com](https://socialclub.rockstargames.com/)
 * [terminal.sexy](https://terminal.sexy/)
+* [us.norwegianreward.com/](https://us.norwegianreward.com/)
 * [variety.com](https://variety.com/)
 
 ## Contributing
