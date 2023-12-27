@@ -22,18 +22,14 @@ function without obvious issues. Rather, the goals are to 1) increase awareness
 of the production build and 2) hopefully get the attention of the developers
 behind these websites so that they can make the change.
 
-* [account.ubisoft.com](https://account.ubisoft.com/)
 * [crownshy.nyc](https://www.crownshy.nyc/)
 * [deadline.com](https://deadline.com/)
 * [fortawesome.com](https://fortawesome.com/)
 * [hatsuhana.com](https://www.hatsuhana.com/)
+* [hollywoodreporter.com](https://www.hollywoodreporter.com/)
 * [indiewire.com](https://www.indiewire.com/)
-* [indochino.com](https://www.indochino.com/)
-* [marvel.com/creditcard](https://www.marvel.com/creditcard)
 * [rubirosanyc.com](https://www.rubirosanyc.com/)
-* [socialclub.rockstargames.com](https://socialclub.rockstargames.com/)
 * [terminal.sexy](https://terminal.sexy/)
-* [us.norwegianreward.com/](https://us.norwegianreward.com/)
 * [variety.com](https://variety.com/)
 
 ## Contributing
