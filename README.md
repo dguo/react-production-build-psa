@@ -5,14 +5,14 @@ extension displays an icon indicating if the current website is running a
 development, production, or out of date build of React.
 
 Development:
-![development icon](https://github.com/facebook/react/blob/main/packages/react-devtools-extensions/icons/128-development.png)
+![development icon](https://github.com/facebook/react/blob/main/packages/react-devtools-extensions/icons/32-development.png)
 
 Production:
-![production icon](https://github.com/facebook/react/blob/main/packages/react-devtools-extensions/icons/128-production.png)
+![production icon](https://github.com/facebook/react/blob/main/packages/react-devtools-extensions/icons/32-production.png)
 
 Out of date:
 ![out of date
-icon](https://github.com/facebook/react/blob/main/packages/react-devtools-extensions/icons/128-outdated.png)
+icon](https://github.com/facebook/react/blob/main/packages/react-devtools-extensions/icons/32-outdated.png)
 
 Websites should [use the production
 build](https://reactjs.org/docs/optimizing-performance.html#use-the-production-build)
