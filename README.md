@@ -2,11 +2,17 @@
 
 The [React Developer Tools](https://github.com/facebook/react-devtools)
 extension displays an icon indicating if the current website is running a
-development, production, or out of date build of React:
+development, production, or out of date build of React.
 
-![dev message](https://reactjs.org/static/devtools-dev-e434ce2f7e64f63e597edf03f4465694-1e9b4.png)
----
-![prod message](https://reactjs.org/static/devtools-prod-d0f767f80866431ccdec18f200ca58f1-1e9b4.png)
+Development:
+![development icon](https://github.com/facebook/react/blob/main/packages/react-devtools-extensions/icons/128-development.png)
+
+Production:
+![production icon](https://github.com/facebook/react/blob/main/packages/react-devtools-extensions/icons/128-production.png)
+
+Out of date:
+![out of date
+icon](https://github.com/facebook/react/blob/main/packages/react-devtools-extensions/icons/128-outdated.png)
 
 Websites should [use the production
 build](https://reactjs.org/docs/optimizing-performance.html#use-the-production-build)
